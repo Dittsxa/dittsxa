@@ -6,7 +6,7 @@ I'm currently studying in the programming world, especially about front-end web 
 ---
 - 🔭 I’m currently studying on SMKN 4 Bandung
 - 🌱 I’m currently learning Front-end Web Developer & Graphic Design
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on Front-end Web Development & UI/UX Design 
 - 💬 Ask me about anything you want know
 - 📫 How to reach me: <a href="mailto:ditokostolani@gmail.com?Subject=Work%20Together">Contact with Email!</a>
 ---
