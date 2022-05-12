@@ -18,8 +18,8 @@ I am just an ordinary person with an interest in Technology, especially about Pr
 ```javascript
 const aboutMe = {
   pronouns: 'he' | 'him',
-  language: [Javascript, HTML, CSS, Python, Node, PHP],
-  frameworkAndLibrary: [Vue, Laravel, Bootstrap, Tailwind CSS],
+  language: [Javascript, HTML, CSS, Python, Node, PHP, Java, C++],
+  frameworkAndLibrary: [React, Laravel, Bootstrap, Tailwind CSS],
   design: [Figma, Photoshop, Illustrator],
   other: [firebase, sql],
 }
